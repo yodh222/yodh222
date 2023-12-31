@@ -1,4 +1,4 @@
-### Hello, my name is Yodha Agasthya 👋
+### Hello, my name is Yodha Agasthya 
 
 <!--
 **yodh222/yodh222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
