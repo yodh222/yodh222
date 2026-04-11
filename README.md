@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Yodha Agasthya</h1>
-<h3 align="left">a vocational high school student who is interested in programming and cybersecurity</h3>
+<h3 align="left">an Informatics Engineering student at Universitas Muhammadiyah Surakarta, focused on backend development and cybersecurity</h3>
 
 <h1 align="center">Hi 👋, I'm Yodha Agasthya</h1>
 
