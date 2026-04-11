@@ -80,11 +80,11 @@
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: (optional)
+* 📧 Email: [yodhaagasthya07@gmail.com](mailto:yodhaagasthya07@gmail.com)
+* 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/yodha-agasthya-novianto-putra/)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yodh222&icon=0&color=0"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yodh222.yodh222" />
 </p>
 
 - 🤔 I’m looking for help with ...
