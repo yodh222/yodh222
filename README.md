@@ -1,6 +1,3 @@
-<h1 align="left">Hello, I'm Yodha Agasthya</h1>
-<h3 align="left">an Informatics Engineering student at Universitas Muhammadiyah Surakarta, focused on backend development and cybersecurity</h3>
-
 <h1 align="center">Hi 👋, I'm Yodha Agasthya</h1>
 
 <p align="center">
@@ -11,10 +8,11 @@
 
 ## 🚀 About Me
 
-* 🎓 Vocational High School Student (Informatics Engineering)
-* 🔐 Interested in **Cybersecurity & Backend Development**
-* ⚡ Exploring **Web Security, API Security, and Ethical Hacking**
-* 🎯 Goal: Become a **Security Engineer**
+* 🎓 Informatics Engineering Student at Universitas Muhammadiyah Surakarta
+* 🔐 Interested in **Cybersecurity, Backend Development, and AI**
+* ⚡ Exploring **Web Security, API Security, and AI Security Concepts**
+* 🤖 Currently learning **Machine Learning fundamentals & AI systems**
+* 🎯 Goal: Become an **AI Security Engineer**
 
 ---
 
@@ -42,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yodh222&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodh222&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-ten-14.vercel.app/api?username=yodh222&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-ten-14.vercel.app/api/top-langs/?username=yodh222&layout=compact&theme=tokyonight" />
 </p>
 
 ---
