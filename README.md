@@ -68,29 +68,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🔐 Web Security Lab</h3>
-      <p align="center">A practice project for learning common web vulnerabilities such as XSS, SQL Injection, and authentication flaws.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌐 Secure Laravel App</h3>
-      <p align="center">A Laravel-based application focused on authentication, role-based access control, and secure backend practices.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🐍 Python Automation</h3>
-      <p align="center">Small Python tools for automation, productivity, and beginner-friendly security-related scripting.</p>
-    </td>
-  </tr>
-</table>
-
-> Replace these with your real repositories when they are ready.
-
----
-
 ## 🧠 Currently Learning
 
 <p align="center">
@@ -127,3 +104,28 @@
 <p align="center">
   <i>Thanks for visiting my profile ✨</i>
 </p>
+
+<!--
+
+---
+
+## 📌 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">App Monev</h3>
+      <p align="center">A practice project for learning common web vulnerabilities such as XSS, SQL Injection, and authentication flaws.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 Secure Laravel App</h3>
+      <p align="center">A Laravel-based application focused on authentication, role-based access control, and secure backend practices.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🐍 Python Automation</h3>
+      <p align="center">Small Python tools for automation, productivity, and beginner-friendly security-related scripting.</p>
+    </td>
+  </tr>
+</table>
+
+> Replace these with your real repositories when they are ready.
